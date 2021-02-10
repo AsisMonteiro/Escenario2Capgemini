@@ -1,0 +1,4 @@
+com\capgemini\asis\escenario2\hijo\gestionmodel\servicios\CategoriaService.class
+com\capgemini\asis\escenario2\hijo\gestionmodel\entidades\Categoria.class
+com\capgemini\asis\escenario2\hijo\gestionmodel\servicios\CategoriaServiceImpl.class
+com\capgemini\asis\escenario2\hijo\gestionmodel\repositorios\CategoriaRepository.class
